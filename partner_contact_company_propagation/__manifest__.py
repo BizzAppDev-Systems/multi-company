@@ -5,7 +5,7 @@
 {
     "name": "Partner Contact Company Propagation",
     "summary": "Propagate company info to children contacts",
-    "version": "14.0.1.0.0",
+    "version": "15.0.1.0.0",
     "category": "Tools",
     "website": "https://github.com/OCA/multi-company",
     "author": " Akretion, Odoo Community Association (OCA)",
